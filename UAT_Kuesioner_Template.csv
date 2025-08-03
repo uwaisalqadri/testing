@@ -1,0 +1,31 @@
+No,Kategori,Pertanyaan,Responden_1,Responden_2,Responden_3,Responden_4,Responden_5,Responden_6,Responden_7,Responden_8,Responden_9,Responden_10,Rata-rata,Persentase
+1,Kemudahan Penggunaan,Seberapa mudah navigasi dalam aplikasi ini? (1-5),,,,,,,,,,,,
+2,Kemudahan Penggunaan,Apakah layout dan struktur menu intuitif? (1-5),,,,,,,,,,,,
+3,Kemudahan Penggunaan,Seberapa mudah mencari restoran dan menu yang diinginkan? (1-5),,,,,,,,,,,,
+4,Kemudahan Penggunaan,Apakah proses pemesanan dari awal hingga selesai mudah dipahami? (1-5),,,,,,,,,,,,
+5,Kemudahan Penggunaan,Seberapa mudah menggunakan fitur pelacakan pesanan? (1-5),,,,,,,,,,,,
+6,Kinerja Aplikasi,Bagaimana kecepatan loading aplikasi secara keseluruhan? (1-5),,,,,,,,,,,,
+7,Kinerja Aplikasi,Apakah aplikasi merespons dengan cepat saat melakukan pencarian? (1-5),,,,,,,,,,,,
+8,Kinerja Aplikasi,Seberapa stabil aplikasi selama penggunaan (tidak crash/error)? (1-5),,,,,,,,,,,,
+9,Fungsionalitas,Apakah semua fitur bekerja sesuai yang diharapkan? (1-5),,,,,,,,,,,,
+10,Fungsionalitas,Seberapa akurat informasi yang ditampilkan (harga menu waktu)? (1-5),,,,,,,,,,,,
+11,Fungsionalitas,Apakah sistem notifikasi berfungsi dengan baik? (1-5),,,,,,,,,,,,
+12,Estetika Antarmuka,Bagaimana penilaian Anda terhadap desain visual aplikasi? (1-5),,,,,,,,,,,,
+13,Estetika Antarmuka,Apakah warna dan font yang digunakan nyaman untuk mata? (1-5),,,,,,,,,,,,
+14,Estetika Antarmuka,Seberapa konsisten desain di seluruh aplikasi? (1-5),,,,,,,,,,,,
+15,Kepuasan Keseluruhan,Seberapa puas Anda dengan aplikasi ini secara keseluruhan? (1-5),,,,,,,,,,,,
+16,Kepuasan Keseluruhan,Apakah Anda akan merekomendasikan aplikasi ini kepada orang lain? (1-5),,,,,,,,,,,,
+
+PROFIL RESPONDEN
+Karakteristik,Responden_1,Responden_2,Responden_3,Responden_4,Responden_5,Responden_6,Responden_7,Responden_8,Responden_9,Responden_10
+Usia,,,,,,,,,,
+Jenis Kelamin,,,,,,,,,,
+Pengalaman Teknologi,,,,,,,,,,
+Pengalaman Food Delivery,,,,,,,,,,
+
+FEEDBACK TERBUKA
+Pertanyaan,Responden_1,Responden_2,Responden_3,Responden_4,Responden_5,Responden_6,Responden_7,Responden_8,Responden_9,Responden_10
+Fitur yang paling disukai,,,,,,,,,,
+Yang perlu diperbaiki,,,,,,,,,,
+Fitur tambahan yang diinginkan,,,,,,,,,,
+Komentar atau saran lain,,,,,,,,,,

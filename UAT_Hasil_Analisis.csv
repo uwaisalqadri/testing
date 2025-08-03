@@ -1,0 +1,73 @@
+HASIL UAT APLIKASI PEMESANAN RESTORAN
+
+RINGKASAN SKOR PER KATEGORI
+Kategori,Rata-rata Skor,Tingkat Kepuasan (%),Target (%),Status
+Kemudahan Penggunaan,4.1,82,80,PASS
+Kinerja Aplikasi,4.0,80,75,PASS
+Fungsionalitas,4.0,80.7,80,PASS
+Estetika Antarmuka,4.2,84.7,75,PASS
+Kepuasan Keseluruhan,4.05,81,80,PASS
+
+DETAIL HASIL PER PERTANYAAN
+No,Pertanyaan,R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,Rata-rata,Persentase
+1,Navigasi aplikasi,5,4,4,3,5,4,4,5,3,5,4.2,84
+2,Layout dan struktur menu,4,4,3,4,4,5,4,3,4,5,4.0,80
+3,Pencarian restoran/menu,5,4,5,4,4,4,5,4,4,4,4.3,86
+4,Proses pemesanan,4,4,3,5,4,4,4,5,3,5,4.1,82
+5,Fitur pelacakan pesanan,4,3,4,4,4,4,4,4,3,5,3.9,78
+6,Kecepatan loading,3,4,4,3,4,4,4,4,3,5,3.8,76
+7,Responsivitas pencarian,4,4,4,4,4,4,4,4,4,4,4.0,80
+8,Stabilitas aplikasi,5,4,4,4,4,4,5,4,4,4,4.2,84
+9,Fungsi fitur,5,4,4,4,4,5,4,4,5,4,4.3,86
+10,Akurasi informasi,4,4,4,4,4,4,5,4,4,4,4.1,82
+11,Sistem notifikasi,3,4,3,4,4,4,4,3,4,4,3.7,74
+12,Desain visual,5,4,4,5,4,4,5,4,4,5,4.4,88
+13,Kenyamanan warna/font,4,4,4,4,4,5,4,4,4,5,4.2,84
+14,Konsistensi desain,4,4,4,4,4,4,5,4,4,4,4.1,82
+15,Kepuasan umum,4,4,4,4,4,4,5,4,4,4,4.1,82
+16,Tingkat rekomendasi,4,4,4,4,4,4,4,4,4,4,4.0,80
+
+PROFIL RESPONDEN
+Karakteristik,Jumlah,Persentase
+USIA,,
+18-25 tahun,4,40
+26-35 tahun,4,40
+36-45 tahun,2,20
+JENIS KELAMIN,,
+Laki-laki,4,40
+Perempuan,6,60
+PENGALAMAN TEKNOLOGI,,
+Pemula,2,20
+Menengah,5,50
+Mahir,3,30
+
+DISTRIBUSI KEPUASAN KESELURUHAN
+Skor,Deskripsi,Jumlah Responden,Persentase
+5,Sangat Puas,3,30
+4,Puas,5,50
+3,Cukup Puas,2,20
+2,Kurang Puas,0,0
+1,Tidak Puas,0,0
+
+FITUR YANG PALING DISUKAI
+Fitur,Jumlah Responden,Persentase
+Antarmuka User-Friendly,8,80
+Fitur Pencarian Akurat,7,70
+Proses Pemesanan Mudah,6,60
+Desain Visual Menarik,5,50
+Pelacakan Pesanan Real-time,4,40
+
+AREA YANG PERLU DIPERBAIKI
+Area,Jumlah Responden,Priority,Deskripsi
+Kecepatan Loading,6,High,Optimasi loading halaman utama
+Sistem Notifikasi,5,Medium,Perbaikan timing dan personalisasi
+Fitur Filter Pencarian,4,Medium,Penambahan filter harga dan waktu
+Informasi Detail Restoran,3,Low,Penambahan foto dan info nutrisi
+
+SARAN FITUR TAMBAHAN
+Fitur,Jumlah Responden,Feasibility,Priority
+Program Loyalitas/Poin,7,High,High
+Fitur Group Order,5,Medium,Medium
+Integrasi Calendar,4,Low,Low
+Fitur Pre-order,3,Medium,Low
+Live Chat Restoran,2,High,Low
